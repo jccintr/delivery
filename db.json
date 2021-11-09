@@ -1,0 +1,90 @@
+[
+   {
+      "id":"1",
+      "nome":"Pizza Calabresa",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "queijo mussarela",
+         "cebola",
+         "calabresa"
+      ]
+   },
+   {
+      "id":"2",
+      "nome":"Pizza Portuguesa",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "presunto",
+         "queijo mussarela",
+         "cebola",
+         "ovo"
+      ]
+   },
+   {
+      "id":"3",
+      "nome":"Pizza Quatro Queijos",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "queijo mussarela",
+         "queijo parmesão",
+         "queijo gorgonzola",
+         "catupiry"
+      ]
+   },
+   {
+      "id":"4",
+      "nome":"Pizza Frango Catupiry",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "queijo mussarela",
+         "frango desfiado",
+         "catupiry",
+         "cebola"
+      ]
+   },
+   {
+      "id":"5",
+      "nome":"Pizza Atum",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "mussarela",
+         "atum",
+         "cebola"
+      ]
+   },
+   {
+      "id":"7",
+      "nome":"Pizza Mussarela",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "mussarela",
+         "azeitona",
+         "tomate"
+      ]
+   },
+   {
+      "id":"8",
+      "nome":"Pizza Mexicana",
+      "imagem":"pizza.png",
+      "categorias":"pizzas",
+      "ingredientes":[
+         "molho",
+         "mussarela",
+         "ovo",
+         "tomate",
+         "calabresa",
+         "pimenta"
+      ]
+   }
+]
